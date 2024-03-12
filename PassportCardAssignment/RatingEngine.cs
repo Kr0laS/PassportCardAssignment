@@ -12,8 +12,6 @@ public class RatingEngine
 {
     public decimal Rating { get; set; }
 
-
-
     public void Rate()
     {
         // log start rating

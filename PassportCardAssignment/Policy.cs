@@ -35,11 +35,11 @@ public class Policy
 //but because i read the policy from a json file,
 //i figured that could cause some problems when reading from the file
 //since we cant know what is the expected type.
-
+//public class Policy
 //{
 //    public PolicyType Type { get; set; }
-//public string FullName { get; set; }
-//public DateTime DateOfBirth { get; set; }
+//    public string FullName { get; set; }
+//    public DateTime DateOfBirth { get; set; }
 //}
 
 //public class LifePolicy : Policy
